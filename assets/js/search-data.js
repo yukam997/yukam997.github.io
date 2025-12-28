@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -58,12 +51,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-maths-olympiads",
+              title: "maths olympiads",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/al-folio/books/";
+              },
+            },{id: "dropdown-hobbies",
+              title: "hobbies",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
               },
             },{id: "dropdown-blog",
               title: "blog",
