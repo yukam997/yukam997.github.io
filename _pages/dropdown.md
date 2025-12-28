@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
+title: miscellaneous
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
+  - title: maths olympiads
     permalink: /books/
-  - title: divider
+  - title: hobbies
   - title: blog
     permalink: /blog/
 ---
