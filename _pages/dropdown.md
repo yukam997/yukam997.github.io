@@ -10,4 +10,6 @@ children:
   - title: hobbies
   - title: blog
     permalink: /blog/
+  - title: projects
+    permalink: /projects/   
 ---
