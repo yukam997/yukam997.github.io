@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/https:/yukam997.github.io/assets/pdf/CV2025Base.pdf";
+            window.location.href = "/https:/yukam997.github.io/assets/pdf/cv.pdf";
           },
         },{id: "nav-publications",
           title: "publications",
