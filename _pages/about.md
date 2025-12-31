@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>450 Jane Stanford Way</p>
@@ -21,13 +21,13 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am PhD Student at Stanford studying Cognitive Science. I am advised by Prof. [Robert Hawkins](https://rdhawkins.com), and am part of the [SoIL lab](https://social-interaction-lab.org/people/).
+I am PhD Student at Stanford studying Cognitive Science. I am advised by [Prof. Robert Hawkins](https://rdhawkins.com), and am part of the [SoIL lab](https://social-interaction-lab.org/people/).
 
 I am interested in how social factors shape communication. Using behavioral experiments and computational modeling, I am especially interested in understanding how cultural differences in values, common sense and ways of life, lead to differences in everyday interactions. 
 
-Prior to Stanford, I completed my undergrad (Math and CS) and master’s (CS) at MIT. 
+Prior to Stanford, I completed bachelor's degrees in math and computer science, and my master's in computer science at MIT.

@@ -6,10 +6,11 @@ nav_order: 8
 dropdown: true
 children:
   - title: maths olympiads
-    permalink: /books/
+    permalink: /maths-olympiads/
   - title: hobbies
+    permalink: /hobbies/
   - title: blog
     permalink: /blog/
-  - title: projects
-    permalink: /projects/   
+  # - title: projects
+  #   permalink: /projects/   #wanna uncomment some day
 ---
