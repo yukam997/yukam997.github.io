@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am PhD Student at Stanford studying Cognitive Science. I am advised by [Prof. Robert Hawkins](https://rdhawkins.com), and am part of the [SoIL lab](https://social-interaction-lab.org/people/).
+I am PhD Student at Stanford studying Cognitive Science and Computational Social Science, advised by [Prof. Robert Hawkins](https://rdhawkins.com), and　[Prof. Douglas Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-guilbeault).
 
-I am interested in how social factors shape communication. Using behavioral experiments and computational modeling, I am especially interested in understanding how cultural differences in values, common sense and ways of life, lead to differences in everyday interactions. 
+I am interested in how individuals in a society construct common ground, and use it to communicate with each other. I conduct behavioral experiments to investigate everyday interactions between individuals, and use computational tools to model how social and cultural factors shape these interactions. 
 
 Prior to Stanford, I completed bachelor's degrees in math and computer science, and my master's in computer science at MIT.
