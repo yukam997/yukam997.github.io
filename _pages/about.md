@@ -28,6 +28,6 @@ latest_posts:
 
 I am PhD Student at Stanford studying Cognitive Science and Computational Social Science, advised by [Prof. Robert Hawkins](https://rdhawkins.com), and　[Prof. Douglas Guilbeault](https://www.gsb.stanford.edu/faculty-research/faculty/douglas-guilbeault).
 
-I am interested in how individuals in a society construct common ground, and use it to communicate with each other. I conduct behavioral experiments to investigate everyday interactions between individuals, and use computational tools to model how social and cultural factors shape these interactions. 
+I am interested in how social norms and common ground help individuals in a community coordinate and communicate. Because everyone knows a Rolex is expensive, wearing one signals wealth; an equally costly but obscure watch would not. Because everyone knows the norms of polite speech, you can hear a friend's "it's not bad" about your cooking as kindness rather than a verdict. To study how such common ground is built and how it guides interaction, I combine behavioral experiments with computational models, to understand how communities and individuals relate to each other.
 
 Prior to Stanford, I completed bachelor's degrees in math and computer science, and my master's in computer science at MIT.
